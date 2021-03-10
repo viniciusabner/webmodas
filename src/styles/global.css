@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+
+body {
+  font-family: "RocknRoll One", sans-serif;
+  margin: 0 auto;
+  background: #ffffff;
+}
+
+a,
+a:active,
+a:focus,
+a:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
